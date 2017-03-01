@@ -9,7 +9,7 @@ Here's a list of people here today:
 - Christian Aldridge
 - Dan Kerchner (presenter)
 - Laura Wrubel
-
+- Christopher Gross
 
 ![meme about commits]
 (meme.jpg)
