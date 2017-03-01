@@ -9,3 +9,7 @@ Here's a list of people here today:
 - Christian Aldridge
 - Dan Kerchner
 - Laura Wrubel
+
+
+![meme about commits]
+(meme.jpg)
