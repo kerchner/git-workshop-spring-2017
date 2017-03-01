@@ -7,7 +7,7 @@ We're going to use this repository to practice collaborating on a github reposit
 
 Here's a list of people here today:
 - Christian Aldridge
-- Dan Kerchner
+- Dan Kerchner (presenter)
 - Laura Wrubel
 
 
