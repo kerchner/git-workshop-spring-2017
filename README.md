@@ -11,5 +11,4 @@ Here's a list of people here today:
 - Laura Wrubel
 - Christopher Gross
 
-![meme about commits]
-(meme.jpg)
+![meme about commits](meme.jpg)
